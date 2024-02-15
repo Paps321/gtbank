@@ -1,0 +1,19 @@
+.box{
+  border: 1px solid red;
+  padding: 30px 30px;
+  background-color: orangered;
+}
+p{
+  font-size: 90px;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+}
+.smallbox{
+  background-color: white;
+  padding: 70px;
+  margin-left: 190px;
+  margin-right: 90px;
+  
+  
+}
